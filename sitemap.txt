@@ -1,4 +1,4 @@
-http://example.com/2023/11/14/test/
+http://example.com/2023/11/14/movie/
 http://example.com/2023/09/17/text/
 http://example.com/2023/09/17/hello-world/
 http://example.com/
